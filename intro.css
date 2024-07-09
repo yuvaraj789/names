@@ -1,0 +1,40 @@
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 500px 0px 500px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+form:hover{
+    background-color:royalblue
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(252, 253, 244);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(230, 228, 238);;
+}
+textarea{
+    border-radius: 5px;
+    background-color:rgb(237, 238, 228);;
+}
+input:hover{
+    background-color: rgb(213, 244, 188);
+}
+select:hover{
+    background-color: rgb(213, 244, 188);
+}
+textarea:hover{
+    background-color: rgb(213, 244, 188);
+}
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: green;
+}
+
